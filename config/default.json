@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://kiwi:1234@kiwi-1snds.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
