@@ -6,7 +6,7 @@ const app =express();
 //Connect Databases
 connectDB();
 
-//Init Middleware
+//Init Middleware 
 app.use(express.json({extended:false}));
 
 
